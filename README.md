@@ -21,3 +21,5 @@ To install CheTo using Conda, simply run:
 Using CheTo in KNIME: [http://rdkit.blogspot.ch/2017/08/chemical-topic-modeling-with-rdkit-and.html](http://rdkit.blogspot.ch/2017/08/chemical-topic-modeling-with-rdkit-and.html)
 
 After publication of our article we were made aware that applying topic modeling to chemical data was also suggested by Rajarshi Guha in 2012 in his blog ([http://blog.rguha.net/?p=997](http://blog.rguha.net/?p=997)).
+
+this line is added by JD for testing the git push
